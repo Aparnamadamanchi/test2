@@ -1,0 +1,14 @@
+git comands
+touch file1 file2
+git status
+git add .
+git status
+git commit -m "file name"
+git log
+git push
+modify files::
+ git add.
+git stastus
+git commit -m "file name"
+git log
+git push
